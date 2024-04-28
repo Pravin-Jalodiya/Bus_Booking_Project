@@ -1,6 +1,6 @@
 # Bus Booking Project
 
-A bus booking platform built with Tkinter, facilitating bus search, booking, and admin management functionalities.
+A bus booking platform built with Tkinter and SQLite facilitating bus search, booking, and admin management functionalities.
 
 ## Features
 -  Email, phone number, date, and time format validation for user input
